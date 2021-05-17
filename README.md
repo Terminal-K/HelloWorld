@@ -17,3 +17,11 @@ ps: 比赛是菜品的识别任务，共172道菜，历时8天。简单采用了
     pandas
     opencv
     PIL
+    
+## 说明
+    caculate.py用来计算训练集中各类的数量
+	cal_mean_std.py用来计算训练集的均值与方差
+	data_ready.py用来将数据及标签写入txt，以及划分数据集
+	dataloader.py用来生成加载每批的数据
+	model.py用来定义模型，以及优化器、损失函数和学习率衰减策略的配置
+	run.py用来开始炼丹
