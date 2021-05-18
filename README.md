@@ -1,7 +1,7 @@
 # HelloWorld
 for the 2th AI challenge of SCNU
 
-首先纪念第一次敲AI代码（不是全部啦😁），之前听了b站一个up主讲pytorch讲得贼好，同时又碰上第二届AI挑战赛，因此想不当调参侠地去尝试把流程完整地写一次，于是就有了这个HelloWorld。每件事都有helloworld，这不仅是github的，也是作为我AI学习的helloworld，所以就让它作为一块牌子立在起点这里吧。
+首先纪念第一次敲AI代码（不是全部啦😁），之前听了b站一个up主讲pytorch讲得贼好，同时又碰上第二届AI挑战赛，因此来尝试把流程完整地写一次，于是就有了这个HelloWorld。每件事都有helloworld，这不仅是github的，也是作为我AI学习的helloworld，所以就让它作为一块牌子立在起点这里吧。
 
 以后可能会忘记怎么再去写这套流程，所以或许可以为以后的一些AI项目提供一个拉跨基线，当然以后如果有时间的话会改一改提高一下水平哈哈哈~~
 
