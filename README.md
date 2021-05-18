@@ -25,3 +25,8 @@ ps: 比赛是菜品的识别任务，共172道菜，历时8天。简单采用了
 	dataloader.py用来生成加载每批的数据
 	model.py用来定义模型，以及优化器、损失函数和学习率衰减策略的配置
 	run.py用来开始炼丹
+
+## 参考
+1.计算数据集分布 https://blog.csdn.net/dcrmg/article/details/102467434
+2.数据集加载与处理 https://blog.csdn.net/shunshune/article/details/89316572
+3.resnet结构 https://blog.csdn.net/shanglianlm/article/details/86376627
